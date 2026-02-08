@@ -47,7 +47,7 @@ Basado en las pruebas realizadas, se concluye lo siguiente:
 ## 📋 Requisitos del Sistema
 * **JDK:** Java Development Kit 17 o superior.
 * **IDE:** Apache NetBeans IDE 24.
-* [cite_start]**Sistema:** Procesador con arquitectura x86_64[cite: 126].
+* **Sistema:** Procesador con arquitectura x86_64.
 
 ---
-[cite_start]_Proyecto desarrollado para la asignatura de Estructura de Datos - Febrero 2026_ [cite: 6]
+Proyecto desarrollado para la asignatura de Estructura de Datos - Febrero 2026_ 
